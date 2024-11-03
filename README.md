@@ -15,3 +15,12 @@ https://drive.google.com/file/d/1mwnfXalDUTebreMZqUNHRGAENAeJL1Nn/view?usp=shari
 
 Noisy channels (SNR = 22dB);  
 https://drive.google.com/file/d/1j0BcBoVKCDInryqfCRPjINAUrFrI_rxB/view?usp=sharing
+
+# Running
+```bash
+python -m venv venv
+```
+
+```bash
+python models.py
+```
